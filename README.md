@@ -1,5 +1,5 @@
-Hi, I'm Zach, and I'm fully vested into the life of technology. There's not much that I don't enjoy, so long it peaks my brain. 
+Hey, I'm Zach, and I'm really into technology. I enjoy almost everything related to it, as long as it challenges my mind.
 
-Right now I work with Azure Networking and support their range of products, from connectivity services, application protection services, application delivery services, to network monitoring. 
+Currently, I work with Azure Networking and help with various products like connectivity services, application protection, application delivery, and network monitoring.
 
-I plan to continue to develop my skills to go into Cloud Architecture and eventually start to develop applications with an entrepreneurship goal behind them.
+My future plans involve advancing my skills in Cloud Architecture and eventually creating applications with an entrepreneurial mindset. I want to start my own business with these applications.
