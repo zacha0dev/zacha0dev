@@ -1,5 +1,10 @@
-Hey, I'm Zach, and I'm really into technology. I enjoy almost everything related to it, as long as it challenges my mind.
+## 👋 Hi, I'm Zach
 
-Currently, I work with Azure Networking and help with various products like connectivity services, application protection, application delivery, and network monitoring.
+A tech enthusiast passionate about solving complex problems through **user-focused solutions** and **scalable systems**.
 
-My future plans involve advancing my skills in Cloud Architecture and eventually creating applications.
+👨‍💻 Currently working in **Azure Networking**, supporting connectivity, application protection, delivery, and monitoring.  
+☁️ Actively growing in **Cloud Architecture** and **full-stack app development** - building useful, reliable tools people actually enjoy using.
+
+---
+
+🔧 Always learning. Always building.
