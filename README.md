@@ -11,7 +11,7 @@ I'm a **cloud engineer and software engineer** exploring how full-stack systems 
 | Project | Description | Stack |
 |----------|--------------|-------|
 | [**My Azure Labs Collection**](https://github.com/zacha0dev/my-azure-labs-collection) | Modular Azure labs for infrastructure and networking, including reusable Bicep templates and scripts. | Bicep · PowerShell · Azure CLI |
-| [**My Netowrking Handbook**](https://github.com/zacha0dev/my-networking-handbook) | Practical handbook on networking fundamentals, cloud troubleshooting, and architecture design. | Markdown · Diagrams |
+| [**My Networking Handbook**](https://github.com/zacha0dev/my-networking-handbook) | Practical handbook on networking fundamentals, cloud troubleshooting, and architecture design. | Markdown · Diagrams |
 | [**Dev Handbook**](https://github.com/zacha0dev/dev-handbook) | A step-by-step guide to learning programming, computer science, and professional development. | Python · Markdown |
 | **GreenplateAi** | A nutrition and recipe platform blending data, automation, wellness, and AI - built with a modern full-stack cloud architecture. | React · FastAPI · PostgreSQL |
 
