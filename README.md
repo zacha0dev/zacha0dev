@@ -13,4 +13,4 @@ I’m especially interested in:
 
 Most of the work here reflects deliberate engineering practice - building and running real systems to explore design decisions, tradeoffs, and practical ways technology can solve everyday problems.
 
-#### Check out my projects; 
+#### → Explore my projects below:
