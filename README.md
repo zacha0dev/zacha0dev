@@ -12,3 +12,5 @@ I’m especially interested in:
 - Workflows that reduce operational and cognitive complexity
 
 Most of the work here reflects deliberate engineering practice - building and running real systems to explore design decisions, tradeoffs, and practical ways technology can solve everyday problems.
+
+#### Check out my projects; 
